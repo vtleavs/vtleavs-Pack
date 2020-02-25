@@ -1,0 +1,15 @@
+{
+	"type":"crafting_shaped",
+	"pattern": [
+		"1",
+		"1",
+	],
+	"key": {
+		"1": {
+			"item":"minecraft:redstone"
+		}
+	},
+	"result": {
+		"item": "minecraft:stick"
+	}
+}

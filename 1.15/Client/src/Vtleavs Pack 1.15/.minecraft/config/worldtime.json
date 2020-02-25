@@ -1,0 +1,24 @@
+{
+  "X Percent": {
+    "key": "X Percent",
+    "toolTip": "Offset from screen left",
+    "value": 0,
+    "defaultValue": 0,
+    "minValue": 0,
+    "maxValue": 100
+  },
+  "Prefix": {
+    "key": "Prefix",
+    "toolTip": "prefix to define colors or similar",
+    "value": "",
+    "defaultValue": ""
+  },
+  "Y Percent": {
+    "key": "Y Percent",
+    "toolTip": "Offset from screen top",
+    "value": 5,
+    "defaultValue": 5,
+    "minValue": 0,
+    "maxValue": 100
+  }
+}
