@@ -2,7 +2,7 @@
 	// Mod enabled or disabled
 	"enabled": true,
 	// Activation key
-	"keybinding": "key.keyboard.left.alt",
+	"keybinding": "key.keyboard.grave.accent",
 	// Should mine diagonally
 	"mineDiag": true,
 	// Maximum number of blocks to mine
@@ -20,4 +20,5 @@
 	// Should tool take durability
 	"toolDurability": true,
 	// Should player get exhaustion
-	"playerExhaustion": false
+	"playerExhaustion": true
+}
