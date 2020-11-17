@@ -1,0 +1,59 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "astromine-core:manual": {
+      "viewedEntries": [
+        "astromine-core:machinery/inserter",
+        "astromine-core:world/asteroid_ores",
+        "astromine-core:machinery/energy_cable",
+        "astromine-core:machinery/holographic_bridge_projector",
+        "astromine-core:astronautics/rocket",
+        "astromine-core:machinery/vent",
+        "astromine-core:machinery/triturator",
+        "astromine-core:machinery/presser",
+        "astromine-core:machinery/fuel_mixer",
+        "astromine-core:world/asteroids",
+        "astromine-core:world/meteors",
+        "astromine-core:world/ore_clusters",
+        "astromine-core:world/meteor_ores",
+        "astromine-core:warfare/nuclear_warhead",
+        "astromine-core:astronautics/space_suit",
+        "astromine-core:gadgets/fire_extinguisher",
+        "astromine-core:gadgets/holographic_connector",
+        "astromine-core:gadgets/gravity_gauntlet"
+      ],
+      "bookmarks": [],
+      "history": [
+        "astromine-core:astronautics/rocket",
+        "astromine-core:gadgets/gravity_gauntlet",
+        "astromine-core:gadgets/holographic_connector",
+        "astromine-core:gadgets/fire_extinguisher",
+        "astromine-core:astronautics/space_suit",
+        "astromine-core:warfare/nuclear_warhead",
+        "astromine-core:world/meteor_ores",
+        "astromine-core:world/ore_clusters",
+        "astromine-core:world/meteors",
+        "astromine-core:world/asteroids",
+        "astromine-core:machinery/fuel_mixer",
+        "astromine-core:machinery/presser",
+        "astromine-core:machinery/triturator"
+      ],
+      "completedManualQuests": []
+    },
+    "indrev:indrev": {
+      "viewedEntries": [
+        "indrev:machines/basic_machines",
+        "indrev:temperature/info",
+        "indrev:tools/wrench"
+      ],
+      "bookmarks": [],
+      "history": [
+        "indrev:tools/wrench",
+        "indrev:temperature/info",
+        "indrev:machines/basic_machines"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}
